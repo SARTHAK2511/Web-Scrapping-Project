@@ -1,9 +1,4 @@
-'''
-Program to scrape details of companies listed in Linkedin Directory using Selenium
 
-Author: Kumar Shivam
-
-'''
 
 import pandas as pd
 import re
